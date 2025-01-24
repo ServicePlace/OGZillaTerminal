@@ -39,7 +39,7 @@ function App() {
 
       const animation = rain.animate(
         [
-          { transform: 'translateY(0)', opacity: 1.0 },
+          { transform: 'translateY(0)', opacity: 3.0 },
           { transform: 'translateY(100vh)', opacity: 0 }
         ],
         {
