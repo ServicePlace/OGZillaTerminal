@@ -104,7 +104,7 @@ function App() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-md mx-auto">
             <a
-              href="https://pump.fun"
+              href="https://pump.fun/coin/6DvZHbzc3vspszoEToPJxh7NnLKeDp2p48KmWPfHpump"
               className="group flex items-center justify-center gap-2 py-3 px-6 bg-lime-500/20 hover:bg-lime-500 text-lime-500 hover:text-black rounded-lg transition-all duration-300 border border-lime-500/50"
             >
               <ExternalLink className="w-5 h-5" />
@@ -128,7 +128,7 @@ function App() {
             </a>
             
             <a
-              href="https://solscan.io"
+              href="https://solscan.io/account/6DvZHbzc3vspszoEToPJxh7NnLKeDp2p48KmWPfHpump"
               className="group flex items-center justify-center gap-2 py-3 px-6 bg-lime-500/20 hover:bg-lime-500 text-lime-500 hover:text-black rounded-lg transition-all duration-300 border border-lime-500/50"
             >
               <Github className="w-5 h-5" />
